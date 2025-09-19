@@ -1,0 +1,14 @@
+El vector time hace una grafica exponencial porque tiene un gran crecimiento lo que hace que se tengan tendencias similares
+a la grafica exponencial porque siguen aumentando de una manera mas rapida al mismo tiempo que vayamos aumentando los numeros, 
+tienen una 
+pendiente cada vez mas pronunciada, no puede ser una grafica lineal porque la grafica de esta es mas constante, tampoco y 
+puede ser una grafica logaritmica esta crece y se aplana en cambio en nuestra grafica se ve como solo sube, la cuadratica 
+se necesitaria que n estuviera elevada a 2
+ 
+
+
+el vector peak hace una grafica cuasilineal la cual es comun en algoritmos eficientes, va haciendo que la pendiente 
+cresca poco a poco, lo que quiere decir que tiene un comportamiento ondulatorio en base a su recta promedio,no es 
+logaritmica porque aquella tiene una curva en un sentido diferente al de nuestra grafica, no es cuadratica ni 
+explonencial porque estas suben de una manera mas rapida y se queda arriba en cambio la nuestra sube pero se mantiene,
+tampoco es lineal porque aquella es solo una recta, en la nuestra muestra como se mueve constantemente 
